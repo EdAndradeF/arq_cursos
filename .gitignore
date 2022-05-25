@@ -1,0 +1,5 @@
+*.ova
+*.zip
+/cloudera-quickstart-vm-5.13.0-0-virtualbox/
+autocommit.sh
+
